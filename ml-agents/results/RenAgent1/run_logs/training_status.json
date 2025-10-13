@@ -1,0 +1,117 @@
+{
+    "RenAgent1": {
+        "checkpoints": [
+            {
+                "steps": 1670,
+                "file_path": "results\\RenAgent1\\RenAgent1\\RenAgent1-1670.onnx",
+                "reward": -11.222033937098617,
+                "creation_time": 1701826060.045545,
+                "auxillary_file_paths": [
+                    "results\\RenAgent1\\RenAgent1\\RenAgent1-1670.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1670,
+            "file_path": "results\\RenAgent1\\RenAgent1.onnx",
+            "reward": -11.222033937098617,
+            "creation_time": 1701826060.045545,
+            "auxillary_file_paths": [
+                "results\\RenAgent1\\RenAgent1\\RenAgent1-1670.pt"
+            ]
+        }
+    },
+    "Dr7Agent1": {
+        "checkpoints": [
+            {
+                "steps": 1670,
+                "file_path": "results\\RenAgent1\\Dr7Agent1\\Dr7Agent1-1670.onnx",
+                "reward": -11.32735046158489,
+                "creation_time": 1701826060.0804284,
+                "auxillary_file_paths": [
+                    "results\\RenAgent1\\Dr7Agent1\\Dr7Agent1-1670.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1670,
+            "file_path": "results\\RenAgent1\\Dr7Agent1.onnx",
+            "reward": -11.32735046158489,
+            "creation_time": 1701826060.0804284,
+            "auxillary_file_paths": [
+                "results\\RenAgent1\\Dr7Agent1\\Dr7Agent1-1670.pt"
+            ]
+        }
+    },
+    "OukaAgent1": {
+        "checkpoints": [
+            {
+                "steps": 1612,
+                "file_path": "results\\RenAgent1\\OukaAgent1\\OukaAgent1-1612.onnx",
+                "reward": -10.839999989668529,
+                "creation_time": 1701826060.1163082,
+                "auxillary_file_paths": [
+                    "results\\RenAgent1\\OukaAgent1\\OukaAgent1-1612.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1612,
+            "file_path": "results\\RenAgent1\\OukaAgent1.onnx",
+            "reward": -10.839999989668529,
+            "creation_time": 1701826060.1163082,
+            "auxillary_file_paths": [
+                "results\\RenAgent1\\OukaAgent1\\OukaAgent1-1612.pt"
+            ]
+        }
+    },
+    "PlayerAgent162": {
+        "checkpoints": [
+            {
+                "steps": 3299,
+                "file_path": "results\\RenAgent1\\PlayerAgent162\\PlayerAgent162-3299.onnx",
+                "reward": -2.117968830280006,
+                "creation_time": 1701826060.152693,
+                "auxillary_file_paths": [
+                    "results\\RenAgent1\\PlayerAgent162\\PlayerAgent162-3299.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3299,
+            "file_path": "results\\RenAgent1\\PlayerAgent162.onnx",
+            "reward": -2.117968830280006,
+            "creation_time": 1701826060.152693,
+            "auxillary_file_paths": [
+                "results\\RenAgent1\\PlayerAgent162\\PlayerAgent162-3299.pt"
+            ]
+        }
+    },
+    "LucyAgent1": {
+        "checkpoints": [
+            {
+                "steps": 1612,
+                "file_path": "results\\RenAgent1\\LucyAgent1\\LucyAgent1-1612.onnx",
+                "reward": -7.94000008503596,
+                "creation_time": 1701826060.2194698,
+                "auxillary_file_paths": [
+                    "results\\RenAgent1\\LucyAgent1\\LucyAgent1-1612.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1612,
+            "file_path": "results\\RenAgent1\\LucyAgent1.onnx",
+            "reward": -7.94000008503596,
+            "creation_time": 1701826060.2194698,
+            "auxillary_file_paths": [
+                "results\\RenAgent1\\LucyAgent1\\LucyAgent1-1612.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

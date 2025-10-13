@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TowerAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a76eab91f4aa8ba4cb3bff1311881c2f, type: 3}
+    - {fileID: 2800000, guid: b3e3985899f4f284f9c282ef9df1ad55, type: 3}
+    - {fileID: 2800000, guid: 7cf695a9140342a40a3cc1a24d7362aa, type: 3}
+    - {fileID: 2800000, guid: 71ff91e68fbdd6944a96b4cfb13c43fc, type: 3}
+    - {fileID: 2800000, guid: 6dd48fa5c7680a644bda6c076d0ff1d3, type: 3}
+    - {fileID: 2800000, guid: 3eb50024770bc354599730f2ce2e2829, type: 3}
+    - {fileID: 2800000, guid: 10dfb25f567da1a47b599a0d3fd884dd, type: 3}
+    - {fileID: 2800000, guid: 3a8863f25c083294e87637d9c00f5092, type: 3}
+    - {fileID: 2800000, guid: 0900ffc616ed8ce40bfc89f282fb3c48, type: 3}
+    - {fileID: 2800000, guid: 1a4d146ea0c69de4786ec81167dfe8c8, type: 3}
+    - {fileID: 2800000, guid: 3f1ead82b48819946bd8ff6b9a05754b, type: 3}
+    - {fileID: 2800000, guid: e479cead0e416f04aae9bc9bf4889202, type: 3}
+    - {fileID: 2800000, guid: 8a7887241bb9ea24ba0e5ce98cae0b10, type: 3}
+    - {fileID: 2800000, guid: d1e2eec656d865d4cb80c9fd35a61932, type: 3}
+    - {fileID: 2800000, guid: e02e682298d894d4baa92f3b39695d66, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a76eab91f4aa8ba4cb3bff1311881c2f, type: 3}
+  - {fileID: 21300000, guid: e02e682298d894d4baa92f3b39695d66, type: 3}
+  - {fileID: 21300000, guid: 3f1ead82b48819946bd8ff6b9a05754b, type: 3}
+  - {fileID: 21300000, guid: 3a8863f25c083294e87637d9c00f5092, type: 3}
+  - {fileID: 21300000, guid: 3eb50024770bc354599730f2ce2e2829, type: 3}
+  - {fileID: 21300000, guid: 8a7887241bb9ea24ba0e5ce98cae0b10, type: 3}
+  - {fileID: 21300000, guid: 6dd48fa5c7680a644bda6c076d0ff1d3, type: 3}
+  - {fileID: 21300000, guid: d1e2eec656d865d4cb80c9fd35a61932, type: 3}
+  - {fileID: 21300000, guid: 0900ffc616ed8ce40bfc89f282fb3c48, type: 3}
+  - {fileID: 21300000, guid: 71ff91e68fbdd6944a96b4cfb13c43fc, type: 3}
+  - {fileID: 21300000, guid: b3e3985899f4f284f9c282ef9df1ad55, type: 3}
+  - {fileID: 21300000, guid: 7cf695a9140342a40a3cc1a24d7362aa, type: 3}
+  - {fileID: 21300000, guid: e479cead0e416f04aae9bc9bf4889202, type: 3}
+  - {fileID: 21300000, guid: 1a4d146ea0c69de4786ec81167dfe8c8, type: 3}
+  - {fileID: 21300000, guid: 10dfb25f567da1a47b599a0d3fd884dd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ingae_Progress_TargetOn_003
+  - Ingame_Ring_Ch_02
+  - Ingae_Progress_TargetOff_002
+  - Ingame_Icon_Attribute_01
+  - Ingame_Icon_DeBuff_01
+  - Ingae_Progress_TargetOn_001
+  - Ingame_Icon_Buff_02
+  - Ingame_Ring_Ch_01
+  - Ingame_Icon_Attribute_02
+  - Ingame_Icon_Buff_01
+  - Ingae_Progress_TargetOn_002
+  - Ingame_Icon_DeBuff_02
+  - Ingae_Progress_TargetOff_003
+  - Ingae_Progress_TargetOff_001
+  - Ingame_Icon_Attribute_03
+  m_RenderDataMap: {}
+  m_Tag: TowerAtlas
+  m_IsVariant: 0

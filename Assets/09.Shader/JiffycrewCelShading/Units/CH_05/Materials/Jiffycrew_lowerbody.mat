@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Jiffycrew_lowerbody
+  m_Shader: {fileID: 4800000, guid: 51697e55cca2926428f9c3ccf5dcb444, type: 3}
+  m_ShaderKeywords: TCP2_OUTLINE_TEXTURED _ENABLESHADOW_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 1af9131b9798bc14ea46da86f9a8ca4c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DarkMap:
+        m_Texture: {fileID: 2800000, guid: da1762cc928fd0a429b90ef47e0e4328, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseFalloff1DTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HighlightFalloff1DTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: da1762cc928fd0a429b90ef47e0e4328, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: dc734b517ae408448adaf4c376b79c83, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _P0011:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _P0012:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _P0013:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _P0014:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _P0015:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _P0016:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _P0024:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _P0032:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AuxLight1Intensity: 0
+    - _AuxLight2Intensity: 0
+    - _BumpScale: 1
+    - _CustomCharacterLightDirectionOnOff: 0
+    - _CustomLightColor_Diffuse_OnOff: 0
+    - _CustomLightColor_Highlight_OnOff: 0
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DiffuseCelMode: 0
+    - _DiffuseCutLocation: 0.7
+    - _DiffuseCutSmoothness: 0
+    - _DiffuseFalloff0becomes: 0
+    - _DiffuseFalloff1becomes: 1
+    - _DiffuseFalloffRange: 0
+    - _DiffuseFalloffShift: 0
+    - _DiffuseIntensityMultiplier_Bright: 1
+    - _DiffuseIntensityMultiplier_Dark: 0
+    - _DstBlend: 0
+    - _EnableShadow: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HighlightCelMode: 0
+    - _HighlightCutLocation: 0.99
+    - _HighlightCutSmoothness: 0
+    - _HighlightFalloffBrightnessOffset: 0
+    - _HighlightFalloffBrightnessScale: 1
+    - _HighlightFalloffRange: 0
+    - _HighlightFalloffShift: 0
+    - _HighlightIntensity: 1
+    - _HighlightRotation: 0
+    - _HighlightScaleU: 0
+    - _HighlightScaleV: 0
+    - _HighlightSplitU: 0
+    - _HighlightSplitV: 0
+    - _HighlightSquareHardness: 4
+    - _HighlightSquaring: 0.02
+    - _HighlightTranslationU: 0
+    - _HighlightTranslationV: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Outline: 0.15
+    - _P0001: 0
+    - _P0004: 0
+    - _P0006: 0
+    - _P0008: 1
+    - _P0010: 0
+    - _P0017: 0
+    - _P0019: 0
+    - _P0020: 0.7
+    - _P0021: 0
+    - _P0022: 1
+    - _P0023: 0
+    - _P0025: 0
+    - _P0026: 0
+    - _P0028: 0
+    - _P0029: 0.995
+    - _P0030: 0
+    - _P0031: 0
+    - _P0033: 0
+    - _P0034: 0
+    - _P0035: 0
+    - _P0036: 0
+    - _P0037: 0
+    - _P0038: 0
+    - _P0039: 0
+    - _P0040: 0
+    - _P0041: 0
+    - _P0042: 4
+    - _P0043: 0
+    - _P0045: 4
+    - _P0046: 0
+    - _P0100: 0.15
+    - _Parallax: 0.02
+    - _RimLightHardness: 8
+    - _RimLightIntensity: 0.05
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TessAmount: 1
+    - _TessFactor: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _AuxLight1Direction: {r: 0, g: 0, b: 0, a: 0}
+    - _AuxLight2Direction: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.7169812, g: 0.6933073, b: 0.6933073, a: 1}
+    - _CustomCharacterLightDirection: {r: 0, g: 0, b: 1, a: 1}
+    - _CustomLightColor_Diffuse: {r: 1, g: 1, b: 1, a: 1}
+    - _CustomLightColor_Highlight: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OutlineColor: {r: 0.7075472, g: 0.6574849, b: 0.6574849, a: 1}
+    - _P0002: {r: 0, g: 0, b: 1, a: 1}
+    - _P0003: {r: 1, g: 1, b: 1, a: 1}
+    - _P0005: {r: 1, g: 1, b: 1, a: 0}
+    - _P0007: {r: 0, g: 0, b: 0, a: 0}
+    - _P0009: {r: 0, g: 0, b: 0, a: 0}
+    - _P0018: {r: 1, g: 1, b: 1, a: 0}
+    - _P0027: {r: 1, g: 1, b: 1, a: 0}
+    - _P0044: {r: 1, g: 1, b: 1, a: 1}
+    - _RimLightColor: {r: 0.4026344, g: 0.7685678, b: 0.9811321, a: 1}
+    - _ShadowColor: {r: 0.4756141, g: 0.5221655, b: 0.6037736, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}

@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1701825884",
+        "python_version": "3.7.16 (default, Jan 17 2023, 16:06:28) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\nfinity\\anaconda3\\envs\\ml-agents\\Scripts\\mlagents-learn --run-id=Dr7Agent1",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.6",
+        "end_time_seconds": "1701825944"
+    },
+    "total": 60.6165404,
+    "count": 1,
+    "self": 0.001309499999997854,
+    "children": {
+        "run_training.setup": {
+            "total": 0.016273300000000046,
+            "count": 1,
+            "self": 0.016273300000000046
+        },
+        "TrainerController.start_learning": {
+            "total": 60.5989576,
+            "count": 1,
+            "self": 0.00011039999999695738,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 60.5988316,
+                    "count": 1,
+                    "self": 60.5988316
+                },
+                "TrainerController._save_models": {
+                    "total": 1.5600000004667436e-05,
+                    "count": 1,
+                    "self": 1.5600000004667436e-05
+                }
+            }
+        }
+    }
+}

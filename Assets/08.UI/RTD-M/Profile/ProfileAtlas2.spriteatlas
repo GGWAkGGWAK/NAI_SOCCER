@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ProfileAtlas2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 874cc76158d215443b2f8cf9ee4903eb, type: 3}
+    - {fileID: 2800000, guid: 21a6d392e709e1e40bf79b1e16088d5a, type: 3}
+    - {fileID: 2800000, guid: cd9b6eb7896275e429078d60d41917af, type: 3}
+    - {fileID: 2800000, guid: 9ecd13f59a20b374d89e96c67185eefe, type: 3}
+    - {fileID: 2800000, guid: 61b10f771dae8da48a4032403f316011, type: 3}
+    - {fileID: 2800000, guid: f8ecc10f6cd479c4b8db46a56b36b66d, type: 3}
+    - {fileID: 2800000, guid: fa5bad47f7f08a54e8669afcb1432597, type: 3}
+    - {fileID: 2800000, guid: 6a994b483ed6ac04381e4a1d59d10c0b, type: 3}
+    - {fileID: 2800000, guid: 22891ab84ecb0bb42bc7a90a72848ede, type: 3}
+    - {fileID: 2800000, guid: 288cbc5909a2ef44d80182d18720a34b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 874cc76158d215443b2f8cf9ee4903eb, type: 3}
+  - {fileID: 21300000, guid: 21a6d392e709e1e40bf79b1e16088d5a, type: 3}
+  - {fileID: 21300000, guid: 9ecd13f59a20b374d89e96c67185eefe, type: 3}
+  - {fileID: 21300000, guid: fa5bad47f7f08a54e8669afcb1432597, type: 3}
+  - {fileID: 21300000, guid: 61b10f771dae8da48a4032403f316011, type: 3}
+  - {fileID: 21300000, guid: cd9b6eb7896275e429078d60d41917af, type: 3}
+  - {fileID: 21300000, guid: 6a994b483ed6ac04381e4a1d59d10c0b, type: 3}
+  - {fileID: 21300000, guid: 22891ab84ecb0bb42bc7a90a72848ede, type: 3}
+  - {fileID: 21300000, guid: 288cbc5909a2ef44d80182d18720a34b, type: 3}
+  - {fileID: 21300000, guid: f8ecc10f6cd479c4b8db46a56b36b66d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Profile_Box_ProfileIcon_01
+  - Profile_Btn_Menu_01
+  - Profile_Deco_GoldBarMiNi_01
+  - Profile_Icon_Guild_01
+  - Profile_Icon_Book_01
+  - Profile_Btn_Menu_02
+  - Profile_Icon_MainCH_01
+  - Profile_Icon_Photo_01
+  - Profile_Icon_User_01
+  - Profile_Icon_Copy_01
+  m_RenderDataMap: {}
+  m_Tag: ProfileAtlas2
+  m_IsVariant: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Reize_anim_controller
+  m_Controller: {fileID: 9100000, guid: c9cb34e684321624a9385bc1235542c3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4cf8735e7f9cc0d45a7239888d924f12, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cb4d069a645d1d242be30be4bcd383d0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9fbd2d0dbe5b58a49b97f4d8fc55dc4a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 51197dee3e475be44bf80bf9ea75dc04, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a8461eb326143b84d948e6ebe78a5ca2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c94638ff3a5dbfc4080408853906126a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1867975857ac9524a9f6427e31d0bfae, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f972719c49894e548a6ca470d88512bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 55acc9642c4d40f45a3d0477bff442c9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 21170a1e6db95e040ba3f02634b8cc28, type: 2}

@@ -1,0 +1,29 @@
+{
+    "Testzzz161": {
+        "checkpoints": [
+            {
+                "steps": 229105,
+                "file_path": "results\\Testzzz161\\Testzzz161\\Testzzz161-229105.onnx",
+                "reward": -67.7999999076128,
+                "creation_time": 1701706556.8423762,
+                "auxillary_file_paths": [
+                    "results\\Testzzz161\\Testzzz161\\Testzzz161-229105.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 229105,
+            "file_path": "results\\Testzzz161\\Testzzz161.onnx",
+            "reward": -67.7999999076128,
+            "creation_time": 1701706556.8423762,
+            "auxillary_file_paths": [
+                "results\\Testzzz161\\Testzzz161\\Testzzz161-229105.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

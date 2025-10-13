@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1702047329",
+        "python_version": "3.7.16 (default, Jan 17 2023, 16:06:28) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\nfinity\\anaconda3\\envs\\ml-agents\\Scripts\\mlagents-learn results/NAIAgent232/configuration.yaml --run-id=NAIAgent242",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.6",
+        "end_time_seconds": "1702047334"
+    },
+    "total": 5.5818927,
+    "count": 1,
+    "self": 0.0030602999999995717,
+    "children": {
+        "run_training.setup": {
+            "total": 0.049853000000000036,
+            "count": 1,
+            "self": 0.049853000000000036
+        },
+        "TrainerController.start_learning": {
+            "total": 5.528979400000001,
+            "count": 1,
+            "self": 6.850000000024892e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 5.5288999,
+                    "count": 1,
+                    "self": 5.5288999
+                },
+                "TrainerController._save_models": {
+                    "total": 1.100000000064938e-05,
+                    "count": 1,
+                    "self": 1.100000000064938e-05
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bboobboo_anim_controller
+  m_Controller: {fileID: 9100000, guid: e7944b3d9fb92684a90ca023597b74a0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3510890894237a1438aba48d2ec380c5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d3e687a1220cfb14ba77c7a8e16e6f56, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ea19e64f473e2e7418fcaeb9b5dd632a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3e014f8893266d648aebbf3e9da4993a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fabe8b8304636d7438333b0f0820ca3c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7188133e9c006cd44b5ea354f52f4675, type: 2}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ACE_02_Amy_erasure_001_1
+  m_Shader: {fileID: 4800000, guid: 6ac9a62b25e5ecd45be31ba157cef385, type: 3}
+  m_ShaderKeywords: TCP2_UV_NORMALS_FULL
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DissolveMap:
+        m_Texture: {fileID: 2800000, guid: 5819a577b3e72fd4e8bff605a6a21857, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 195638c5625e0cf4083c9311ce12985d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SColor:
+        m_Texture: {fileID: 2800000, guid: 6555641e710977148a19acb302f419b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _DissolveGradientWidth: 0.2
+    - _DissolveValue: 1
+    - _NormalsSource: 0
+    - _NormalsUVType: 0
+    - _OutlineWidth: 0.16
+    - _RampThreshold: 0.5
+    - _RampThresholdOtherLights: 0.5
+    - __dummy__: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DissolveGradientTexture: {r: 0, g: 2.4098516, b: 3.5648696, a: 1}
+    - _DissolveMap_SC: {r: 1, g: 1, b: 0, a: 0}
+    - _HColor: {r: 0.75, g: 0.75, b: 0.75, a: 1}
+    - _OutlineColorVertex: {r: 0, g: 0, b: 0, a: 1}
+    - _TriplanarSamplingStrength: {r: 8, g: 8, b: 8, a: 4.89}
+  m_BuildTextureStacks: []

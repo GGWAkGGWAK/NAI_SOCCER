@@ -1,0 +1,29 @@
+{
+    "NAIAgent205": {
+        "checkpoints": [
+            {
+                "steps": 17051,
+                "file_path": "results\\NAIAgent205\\NAIAgent205\\NAIAgent205-17051.onnx",
+                "reward": -6.060545954514634,
+                "creation_time": 1701838346.523154,
+                "auxillary_file_paths": [
+                    "results\\NAIAgent205\\NAIAgent205\\NAIAgent205-17051.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 17051,
+            "file_path": "results\\NAIAgent205\\NAIAgent205.onnx",
+            "reward": -6.060545954514634,
+            "creation_time": 1701838346.523154,
+            "auxillary_file_paths": [
+                "results\\NAIAgent205\\NAIAgent205\\NAIAgent205-17051.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

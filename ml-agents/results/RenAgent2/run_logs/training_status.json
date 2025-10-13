@@ -1,0 +1,29 @@
+{
+    "RenAgent2": {
+        "checkpoints": [
+            {
+                "steps": 5922,
+                "file_path": "results\\RenAgent2\\RenAgent2\\RenAgent2-5922.onnx",
+                "reward": -3.2829145199090393,
+                "creation_time": 1701826221.0047727,
+                "auxillary_file_paths": [
+                    "results\\RenAgent2\\RenAgent2\\RenAgent2-5922.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5922,
+            "file_path": "results\\RenAgent2\\RenAgent2.onnx",
+            "reward": -3.2829145199090393,
+            "creation_time": 1701826221.0047727,
+            "auxillary_file_paths": [
+                "results\\RenAgent2\\RenAgent2\\RenAgent2-5922.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

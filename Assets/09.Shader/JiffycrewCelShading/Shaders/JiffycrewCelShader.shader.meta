@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51697e55cca2926428f9c3ccf5dcb444
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _OcclusionMap: {instanceID: 0}
+  - _EmissionMap: {instanceID: 0}
+  - _SpecGlossMap: {instanceID: 0}
+  - _BumpMap: {instanceID: 0}
+  - _DiffuseFalloff1DTexture: {instanceID: 0}
+  - _HighlightFalloff1DTexture: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Assets/08.UI/**/*.png filter=lfs diff=lfs merge=lfs -text
+Assets/03.AssetStore/**/*.png filter=lfs diff=lfs merge=lfs -text
+Assets/**/*.unity filter=lfs diff=lfs merge=lfs -text
+Assets/**/*.anim filter=lfs diff=lfs merge=lfs -text

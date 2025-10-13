@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Aqulla_anim_controller
+  m_Controller: {fileID: 9100000, guid: c9cb34e684321624a9385bc1235542c3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9fbd2d0dbe5b58a49b97f4d8fc55dc4a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e05aec177809b8741b4f6356ec0e1d72, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a8461eb326143b84d948e6ebe78a5ca2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0556050b7b0d8ef4a902b6695e89d6a8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4cf8735e7f9cc0d45a7239888d924f12, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 627b67b731b8e6242b83edb866a14a74, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1867975857ac9524a9f6427e31d0bfae, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fdf4c679c5a804a4598ec082eb5e44d3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 55acc9642c4d40f45a3d0477bff442c9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8931ddd78e5caa84884e79ed0f37ca80, type: 2}

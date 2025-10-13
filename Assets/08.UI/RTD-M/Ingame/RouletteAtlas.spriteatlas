@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RouletteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 674dd55577ca9914f99bcb9ba6361ff4, type: 3}
+    - {fileID: 2800000, guid: 01563571fd294434e985251fb68700bb, type: 3}
+    - {fileID: 2800000, guid: b5fc2d46c125c6447817e1722bb5c351, type: 3}
+    - {fileID: 2800000, guid: 2cb5b7b0465e712458e2a94ccbe41ff5, type: 3}
+    - {fileID: 2800000, guid: 2cf027dbb4bcee042a525e50f4973691, type: 3}
+    - {fileID: 2800000, guid: 9e3600463764ddb49aea58e2176502ab, type: 3}
+    - {fileID: 2800000, guid: 894ad0612929b1a478e8636cbc43ae20, type: 3}
+    - {fileID: 2800000, guid: 371648e19f07b114ea2f594b974fca18, type: 3}
+    - {fileID: 2800000, guid: b43585a4e88293e4bb345ee23214288d, type: 3}
+    - {fileID: 2800000, guid: def720a92fedb6d4b93b0a2bc67ca613, type: 3}
+    - {fileID: 2800000, guid: ec97dd0700aff134ab89a23fda43ae9d, type: 3}
+    - {fileID: 2800000, guid: 0d2d3ced31627154caab8cc1b87bd6f5, type: 3}
+    - {fileID: 2800000, guid: da1a7cac8078cd848a1e3393ff3c9f87, type: 3}
+    - {fileID: 2800000, guid: c8d77ff7c66092e4dbaba7dcaaf78628, type: 3}
+    - {fileID: 2800000, guid: cd4c42bd8eeabff44b038b9f94898325, type: 3}
+    - {fileID: 2800000, guid: f04ade962a50f8040a5ddca16d0ebb52, type: 3}
+    - {fileID: 2800000, guid: c4cf34c0c49022846bf8b37a180a7a17, type: 3}
+    - {fileID: 2800000, guid: ad12d800c9695264492ce4ed426e07dd, type: 3}
+    - {fileID: 2800000, guid: c409650d58f7da4438150dd2060de6e0, type: 3}
+    - {fileID: 2800000, guid: e0c98e789f9b5084399b8cba7e570093, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ad12d800c9695264492ce4ed426e07dd, type: 3}
+  - {fileID: 21300000, guid: 2cb5b7b0465e712458e2a94ccbe41ff5, type: 3}
+  - {fileID: 21300000, guid: c4cf34c0c49022846bf8b37a180a7a17, type: 3}
+  - {fileID: 21300000, guid: 894ad0612929b1a478e8636cbc43ae20, type: 3}
+  - {fileID: 21300000, guid: 01563571fd294434e985251fb68700bb, type: 3}
+  - {fileID: 21300000, guid: 371648e19f07b114ea2f594b974fca18, type: 3}
+  - {fileID: 21300000, guid: b43585a4e88293e4bb345ee23214288d, type: 3}
+  - {fileID: 21300000, guid: 674dd55577ca9914f99bcb9ba6361ff4, type: 3}
+  - {fileID: 21300000, guid: 9e3600463764ddb49aea58e2176502ab, type: 3}
+  - {fileID: 21300000, guid: b5fc2d46c125c6447817e1722bb5c351, type: 3}
+  - {fileID: 21300000, guid: f04ade962a50f8040a5ddca16d0ebb52, type: 3}
+  - {fileID: 21300000, guid: ec97dd0700aff134ab89a23fda43ae9d, type: 3}
+  - {fileID: 21300000, guid: c8d77ff7c66092e4dbaba7dcaaf78628, type: 3}
+  - {fileID: 21300000, guid: e0c98e789f9b5084399b8cba7e570093, type: 3}
+  - {fileID: 21300000, guid: def720a92fedb6d4b93b0a2bc67ca613, type: 3}
+  - {fileID: 21300000, guid: 2cf027dbb4bcee042a525e50f4973691, type: 3}
+  - {fileID: 21300000, guid: da1a7cac8078cd848a1e3393ff3c9f87, type: 3}
+  - {fileID: 21300000, guid: c409650d58f7da4438150dd2060de6e0, type: 3}
+  - {fileID: 21300000, guid: cd4c42bd8eeabff44b038b9f94898325, type: 3}
+  - {fileID: 21300000, guid: 0d2d3ced31627154caab8cc1b87bd6f5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ingame_Icon_Roulette_018
+  - Ingame_Icon_Roulette_004
+  - Ingame_Icon_Roulette_017
+  - Ingame_Icon_Roulette_007
+  - Ingame_Icon_Roulette_002
+  - Ingame_Icon_Roulette_008
+  - Ingame_Icon_Roulette_009
+  - Ingame_Icon_Roulette_001
+  - Ingame_Icon_Roulette_006
+  - Ingame_Icon_Roulette_003
+  - Ingame_Icon_Roulette_016
+  - Ingame_Icon_Roulette_011
+  - Ingame_Icon_Roulette_014
+  - Ingame_Icon_Roulette_020
+  - Ingame_Icon_Roulette_010
+  - Ingame_Icon_Roulette_005
+  - Ingame_Icon_Roulette_013
+  - Ingame_Icon_Roulette_019
+  - Ingame_Icon_Roulette_015
+  - Ingame_Icon_Roulette_012
+  m_RenderDataMap: {}
+  m_Tag: RouletteAtlas
+  m_IsVariant: 0

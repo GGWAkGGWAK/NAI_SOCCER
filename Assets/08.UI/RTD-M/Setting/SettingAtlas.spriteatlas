@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SettingAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 084cb1ea87d8a5748837da5e9ff74b21, type: 3}
+    - {fileID: 2800000, guid: 2bcea25de34ef7a41a483c51f0707405, type: 3}
+    - {fileID: 2800000, guid: 09c9279229517bd478858657f034d25b, type: 3}
+    - {fileID: 2800000, guid: 65529cc3e0f745945a582064037356c6, type: 3}
+    - {fileID: 2800000, guid: a2ed357e9ccce96418cc8c4d307846e4, type: 3}
+    - {fileID: 2800000, guid: 987a4564000acc74ab61b41824e6f6a4, type: 3}
+    - {fileID: 2800000, guid: b7bf6c4f535848841a2c53f004a011ee, type: 3}
+    - {fileID: 2800000, guid: 0c273cf4ad0667e43a6fa4453200443c, type: 3}
+    - {fileID: 2800000, guid: 1a68f2ab87344e24cadb445a466bd980, type: 3}
+    - {fileID: 2800000, guid: a999bd4b5031ce146b5a5b7970ded9e6, type: 3}
+    - {fileID: 2800000, guid: e8c0d94ca57aac340bc30970bb423a09, type: 3}
+    - {fileID: 2800000, guid: 4ec2bf1620355b548a5d7add3dc34c8a, type: 3}
+    - {fileID: 2800000, guid: d154f0b1089d0ab4e83c6bc60f36b223, type: 3}
+    - {fileID: 2800000, guid: 4e1ed98ad8ced084caa533e16190d146, type: 3}
+    - {fileID: 2800000, guid: c68feee8d7f6c544bb64f219db79701a, type: 3}
+    - {fileID: 2800000, guid: c2f595853ffdb57409886b4ea5a69a90, type: 3}
+    - {fileID: 2800000, guid: 5baf0925c529662488ae38d041ea2bac, type: 3}
+    - {fileID: 2800000, guid: 4723ac3638d05e649840e6f445e57864, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d154f0b1089d0ab4e83c6bc60f36b223, type: 3}
+  - {fileID: 21300000, guid: 09c9279229517bd478858657f034d25b, type: 3}
+  - {fileID: 21300000, guid: 65529cc3e0f745945a582064037356c6, type: 3}
+  - {fileID: 21300000, guid: 987a4564000acc74ab61b41824e6f6a4, type: 3}
+  - {fileID: 21300000, guid: 0c273cf4ad0667e43a6fa4453200443c, type: 3}
+  - {fileID: 21300000, guid: 5baf0925c529662488ae38d041ea2bac, type: 3}
+  - {fileID: 21300000, guid: c2f595853ffdb57409886b4ea5a69a90, type: 3}
+  - {fileID: 21300000, guid: 4ec2bf1620355b548a5d7add3dc34c8a, type: 3}
+  - {fileID: 21300000, guid: 4723ac3638d05e649840e6f445e57864, type: 3}
+  - {fileID: 21300000, guid: c68feee8d7f6c544bb64f219db79701a, type: 3}
+  - {fileID: 21300000, guid: 4e1ed98ad8ced084caa533e16190d146, type: 3}
+  - {fileID: 21300000, guid: 084cb1ea87d8a5748837da5e9ff74b21, type: 3}
+  - {fileID: 21300000, guid: a999bd4b5031ce146b5a5b7970ded9e6, type: 3}
+  - {fileID: 21300000, guid: 1a68f2ab87344e24cadb445a466bd980, type: 3}
+  - {fileID: 21300000, guid: e8c0d94ca57aac340bc30970bb423a09, type: 3}
+  - {fileID: 21300000, guid: 2bcea25de34ef7a41a483c51f0707405, type: 3}
+  - {fileID: 21300000, guid: a2ed357e9ccce96418cc8c4d307846e4, type: 3}
+  - {fileID: 21300000, guid: b7bf6c4f535848841a2c53f004a011ee, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Setting_Btn_Select_07
+  - Setting_Box_Language_01
+  - Setting_Box_Seting_01
+  - Setting_Box_Sound_02
+  - Setting_Btn_Select_02
+  - Setting_Icon_Arrow_01
+  - Setting_Deco_Bar_01
+  - Setting_Btn_Select_06
+  - Setting_Icon_Arrow_02
+  - Setting_Btn_Tab_02
+  - Setting_Btn_Tab_01
+  - Setting_Bar_Sound_01
+  - Setting_Btn_Select_04
+  - Setting_Btn_Select_03
+  - Setting_Btn_Select_05
+  - Setting_Bar_Sound_02
+  - Setting_Box_Sound_01
+  - Setting_Btn_Select_01
+  m_RenderDataMap: {}
+  m_Tag: SettingAtlas
+  m_IsVariant: 0

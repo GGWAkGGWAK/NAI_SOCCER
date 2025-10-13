@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ACE_01_Amy_Move_Test
+  m_Controller: {fileID: 9100000, guid: 1addecf9ea2b767468c4321dd9cd6b91, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0ee1bf7cc2738c344b0be44133080388, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3cf8c428574f0724a8f7fdbf3deb37c2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 531f9e74eec4dc946ad27e8159916563, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 18ba6602498b25648a85865e6f56c3fa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f2b74d407067f504c91bce04c7e68b5a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bae4b3f29f72ca8468383947d469d332, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 35ac1e2232ae0384ea801176e8825adf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 50d14c3b1ed354e4797b8499edb51492, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e73e2e698fab4664992532950b3f84a7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c78b45a90c6bc7444a732135079e4904, type: 2}

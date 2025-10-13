@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Coco_anim_Ctrl
+  m_Controller: {fileID: 9100000, guid: d49eaab28bd02ad4cb627937dc0171ba, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6fe17dd5c237ae14d8905ef753f6cb09, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 83570e7f988c780469ed5ab48cb383a3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6a71a1767811bac42a1a0c4f28b1b1ba, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a0263c181af5756428a60e02206652b5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b784eaa58c19fb04a9c3dfaaf036d743, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 27183bd72005097479fd1eb77a59d7f8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5710193d4fc0a044d9d2e20bd44574cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 64d944cbc8f34e64ab77095df8a95b6e, type: 2}

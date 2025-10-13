@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rillia_anim_controller
+  m_Controller: {fileID: 9100000, guid: c9cb34e684321624a9385bc1235542c3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4cf8735e7f9cc0d45a7239888d924f12, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a28263da331f82d4aa50d95297371f4f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9fbd2d0dbe5b58a49b97f4d8fc55dc4a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 394962c6b65560f41b2ac2cd679ce454, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a8461eb326143b84d948e6ebe78a5ca2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 94a8714d288856040bab14703dae2d68, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1867975857ac9524a9f6427e31d0bfae, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 90d13c82a1150ff499e0e7282737b43d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 55acc9642c4d40f45a3d0477bff442c9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4e89e54d72aae724688a8c7cc5c4b23e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6ed5f2644f73963439bd7dbbb2da0b44, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 598441d8e2d3f1c42998b29e013bf2f8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c66f37744184e694d9e1c366ce5ecd2c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 394962c6b65560f41b2ac2cd679ce454, type: 2}

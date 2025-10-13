@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LobbyUnderBtnAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4e05cab3301c05e479aeff320e9e09e5, type: 3}
+    - {fileID: 2800000, guid: 8b4eb0224ae7f074dbaf7f6fe1fc3688, type: 3}
+    - {fileID: 2800000, guid: f5af92ded57800749b2b892a5d95f526, type: 3}
+    - {fileID: 2800000, guid: 017e3595991dd464496469feea3bad5b, type: 3}
+    - {fileID: 2800000, guid: c38df3a3a926b734cb890334ed9b717e, type: 3}
+    - {fileID: 2800000, guid: a3efc51dc20dce94f88c19734075fc59, type: 3}
+    - {fileID: 2800000, guid: de0580efd69345d4fb9dda2dfff721b7, type: 3}
+    - {fileID: 2800000, guid: a15e89e41779e0546aa7b88ceeea9091, type: 3}
+    - {fileID: 2800000, guid: 8155551b7cbb7d94cab46f0ba1162e32, type: 3}
+    - {fileID: 2800000, guid: 022a9251facb55d40890b95a6b52968b, type: 3}
+    - {fileID: 2800000, guid: c2f6d0be25a2b6345bb25f66fa3972b3, type: 3}
+    - {fileID: 2800000, guid: b4b1b2b0e402c994193f281475551070, type: 3}
+    - {fileID: 2800000, guid: e2a368603cd057f4bbf96971c532a2c5, type: 3}
+    - {fileID: 2800000, guid: 6c258385b37b53648a96633a7c784534, type: 3}
+    - {fileID: 2800000, guid: d98075ad0dfa6c8458a5b78d4b3c7ddb, type: 3}
+    - {fileID: 2800000, guid: 29e743c93bf431e49be2f12b72f702b2, type: 3}
+    - {fileID: 2800000, guid: a130b4579d8a7fa4e8516ca92ed851e7, type: 3}
+    - {fileID: 2800000, guid: e2a0b70dc2bc11640b49d2d21cb88f6e, type: 3}
+    - {fileID: 2800000, guid: 92c646f7c9a55264b97ee01a17ef2122, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e2a368603cd057f4bbf96971c532a2c5, type: 3}
+  - {fileID: 21300000, guid: b4b1b2b0e402c994193f281475551070, type: 3}
+  - {fileID: 21300000, guid: 022a9251facb55d40890b95a6b52968b, type: 3}
+  - {fileID: 21300000, guid: 8b4eb0224ae7f074dbaf7f6fe1fc3688, type: 3}
+  - {fileID: 21300000, guid: c38df3a3a926b734cb890334ed9b717e, type: 3}
+  - {fileID: 21300000, guid: 4e05cab3301c05e479aeff320e9e09e5, type: 3}
+  - {fileID: 21300000, guid: a15e89e41779e0546aa7b88ceeea9091, type: 3}
+  - {fileID: 21300000, guid: 6c258385b37b53648a96633a7c784534, type: 3}
+  - {fileID: 21300000, guid: 017e3595991dd464496469feea3bad5b, type: 3}
+  - {fileID: 21300000, guid: a130b4579d8a7fa4e8516ca92ed851e7, type: 3}
+  - {fileID: 21300000, guid: 92c646f7c9a55264b97ee01a17ef2122, type: 3}
+  - {fileID: 21300000, guid: 29e743c93bf431e49be2f12b72f702b2, type: 3}
+  - {fileID: 21300000, guid: 8155551b7cbb7d94cab46f0ba1162e32, type: 3}
+  - {fileID: 21300000, guid: e2a0b70dc2bc11640b49d2d21cb88f6e, type: 3}
+  - {fileID: 21300000, guid: a3efc51dc20dce94f88c19734075fc59, type: 3}
+  - {fileID: 21300000, guid: d98075ad0dfa6c8458a5b78d4b3c7ddb, type: 3}
+  - {fileID: 21300000, guid: c2f6d0be25a2b6345bb25f66fa3972b3, type: 3}
+  - {fileID: 21300000, guid: f5af92ded57800749b2b892a5d95f526, type: 3}
+  - {fileID: 21300000, guid: de0580efd69345d4fb9dda2dfff721b7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Lobby_Bar_Exp_01
+  - 001_RockIcon_001
+  - 001_Skill_001
+  - 000_Message_001
+  - 001_Character_001
+  - 000_Friend_001
+  - 001_Drawing_002
+  - Lobby_Bar_Name_01
+  - 001_CashBar_001
+  - Lobby_Icon_Inventory_002
+  - 001_Item_005
+  - Lobby_Icon_Inventory_001
+  - 001_Guild_001
+  - RTDM_TitleBar_002
+  - 001_Character_002
+  - Lobby_Box_Profile_01
+  - 001_ShopBar_001
+  - 000_Seting_001
+  - 001_Drawing_001
+  m_RenderDataMap: {}
+  m_Tag: LobbyUnderBtnAtlas
+  m_IsVariant: 0

@@ -1,0 +1,51 @@
+{
+    "NAIAgent218": {
+        "checkpoints": [
+            {
+                "steps": 2639,
+                "file_path": "results\\NAIAgent218\\NAIAgent218\\NAIAgent218-2639.onnx",
+                "reward": -10.131250587602457,
+                "creation_time": 1701913894.5375977,
+                "auxillary_file_paths": [
+                    "results\\NAIAgent218\\NAIAgent218\\NAIAgent218-2639.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2639,
+            "file_path": "results\\NAIAgent218\\NAIAgent218.onnx",
+            "reward": -10.131250587602457,
+            "creation_time": 1701913894.5375977,
+            "auxillary_file_paths": [
+                "results\\NAIAgent218\\NAIAgent218\\NAIAgent218-2639.pt"
+            ]
+        }
+    },
+    "NAIAgent217": {
+        "checkpoints": [
+            {
+                "steps": 13298,
+                "file_path": "results\\NAIAgent218\\NAIAgent217\\NAIAgent217-13298.onnx",
+                "reward": -4.490806693751966,
+                "creation_time": 1701913894.603883,
+                "auxillary_file_paths": [
+                    "results\\NAIAgent218\\NAIAgent217\\NAIAgent217-13298.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 13298,
+            "file_path": "results\\NAIAgent218\\NAIAgent217.onnx",
+            "reward": -4.490806693751966,
+            "creation_time": 1701913894.603883,
+            "auxillary_file_paths": [
+                "results\\NAIAgent218\\NAIAgent217\\NAIAgent217-13298.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
